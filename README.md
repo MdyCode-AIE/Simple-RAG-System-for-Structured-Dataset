@@ -11,7 +11,10 @@ The system task includes:
 
 This is my first interation of the system. Works okay (just need more tweaks). Will update for better implementation. I just share this in case anyone interested.
 
-This code will use TruthfulQA as sample (https://huggingface.co/datasets/truthfulqa/truthful_qa)
+This code will use TruthfulQA as sample (https://huggingface.co/datasets/truthfulqa/truthful_qa). 
+
+Some reference used: https://huggingface.co/spaces/MuntasirHossain/RAG-PDF-Chatbot
 
 (ps. The .ipynb file does not display properly but the file still functional. Just download the file and load in colab to check out)
+
 
