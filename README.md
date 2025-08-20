@@ -13,5 +13,5 @@ This is my first interation of the system. Works okay (just need more tweaks). W
 
 This code will use TruthfulQA as sample (https://huggingface.co/datasets/truthfulqa/truthful_qa)
 
-(ps. The .ipynb file does not display properly but the file still functional. Just download the file and load in colab check out)
+(ps. The .ipynb file does not display properly but the file still functional. Just download the file and load in colab to check out)
 
