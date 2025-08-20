@@ -9,7 +9,7 @@ The system task includes:
 2. LLM inference using transformers (we will use Qwen2.5)
 3. Web App using Gradio
 
-This is my first interation of the system. Works okay (just need more tweaks). Will update for better implementation. Just share this in case anyone interested
+This is my first interation of the system. Works okay (just need more tweaks). Will update for better implementation. I just share this in case anyone interested.
 
 This code will use TruthfulQA as sample (https://huggingface.co/datasets/truthfulqa/truthful_qa)
 
