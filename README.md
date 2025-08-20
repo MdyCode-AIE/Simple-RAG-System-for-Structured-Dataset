@@ -5,11 +5,13 @@ for structured dataset (or there is, it just that I dont know haha). Nothing too
 
 The system task includes:
 1. Pull dataset from huggingface
-1. Encoding and Vector searh (FAISS)
+1. Encoding and Vector search (FAISS)
 2. LLM inference using transformers (we will use Qwen2.5)
 3. Web App using Gradio
 
 This is my first interation of the system. Works okay (just need more tweaks). Will update for better implementation. Just share this in case anyone interested
 
 This code will use TruthfulQA as sample (https://huggingface.co/datasets/truthfulqa/truthful_qa)
+
+(ps. The .ipynb file does not display properly but the file still functional. Just download the file and load in colab check out)
 
